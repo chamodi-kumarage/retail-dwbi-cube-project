@@ -1,0 +1,33 @@
+# Visual Studio and SSDT temporary files
+.vs/
+**/bin/
+**/obj/
+*.user
+*.suo
+*.cache
+*.log
+
+# Power BI temporary and local files
+**/.pbi/
+*.pbix.autosave
+*.pbit.autosave
+
+# Microsoft Office temporary files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# SQL Server local data and log files
+*.mdf
+*.ldf
+
+# General temporary files
+*.tmp
+*.temp
+
+# Windows generated files
+Thumbs.db
+Desktop.ini
+
+# macOS generated files
+.DS_Store
